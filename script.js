@@ -1,4 +1,4 @@
-// Insert your OpenWeatherMap API key below
+
 const API_KEY = "enter api";
 
 const cityInput = document.getElementById("cityInput");
